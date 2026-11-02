@@ -42,3 +42,6 @@ This repository contains the complete code, processed data, numerical results, a
    ```bash
    git clone https://github.com/[YourUsername]/EAD-Bayesian-Sampling-Battery-Reliability.git
    cd EAD-Bayesian-Sampling-Battery-Reliability
+
+
+Qasim Ramzan et al. (2026). Supplementary materials for Bayesian Inference for the Exponentiated Ailamujia Distribution. GitHub repository.
